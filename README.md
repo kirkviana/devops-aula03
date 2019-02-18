@@ -1,2 +1,5 @@
-# devops-aula03
-Criando Repositorio
+# Ferramentas de controle de versão:
+* Mercurial
+* GitHub
+* Subversion
+* CVS
